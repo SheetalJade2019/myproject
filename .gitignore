@@ -1,0 +1,4 @@
+myproj\myproj\__pycache__
+myproj\product\__pycache__
+myproj\websocketapp\__pycache__
+db.sqlite3
